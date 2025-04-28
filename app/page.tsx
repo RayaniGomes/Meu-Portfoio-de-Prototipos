@@ -63,10 +63,10 @@ export default function Home() {
         <div className="container px-4 md:px-6">
           <div className="flex flex-col items-center text-center space-y-4">
             <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none">
-              Meu Portfólio de Protótipos
+              Portfólio de Protótipos
             </h1>
             <p className="max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400">
-              Apresentação dos meus projetos de UI/UX design criados no Figma
+              Apresentação dos meus projetos de UI/UX design.
             </p>
             <div className="space-x-4">
               <Button asChild>
@@ -84,9 +84,9 @@ export default function Home() {
       <section id="projects" className="py-12 md:py-16 lg:py-20">
         <div className="container px-4 md:px-6">
           <div className="flex flex-col items-center gap-4 text-center">
-            <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Meus Protótipos</h2>
+            <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Meus Projetos</h2>
             <p className="max-w-[700px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
-              Explore meus projetos de design criados no Figma
+              Explore meus projetos de design criados.
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 mt-8">
@@ -124,7 +124,7 @@ export default function Home() {
                       rel="noopener noreferrer"
                       className="flex items-center justify-center gap-2"
                     >
-                      Ver no Figma <ExternalLink className="h-4 w-4" />
+                      Ver mais <ExternalLink className="h-4 w-4" />
                     </a>
                   </Button>
                 </CardFooter>
