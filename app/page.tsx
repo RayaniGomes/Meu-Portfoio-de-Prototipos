@@ -11,7 +11,7 @@ export default function Home() {
       title: "Evently",
       description: "Plataforma para gerenciamento de eventos e ingressos.",
       image: "/images/evently-thumbnail.png",
-      link: "https://www.figma.com/proto/uobQsGZhIAQFPN4EsWzeN6/Evently?t=ire2f6nN4y5p4qRp-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&node-id=1-2&starting-point-node-id=75%3A1129",
+      link: "https://www.figma.com/design/1uip1WcuSgnsjinq8rbzvL/Evently--Copy-?t=5MXjtnzjQx6aO9D9-1",
       tags: ["Sistema", "Descktop", "Mobile", "Navegável"],
     },
     {
@@ -19,15 +19,15 @@ export default function Home() {
       title: "Zaori Stock",
       description: "Sistema de gerenciamento de estoque e inventário.",
       image: "/images/zaori-thumbnail.png",
-      link: "https://www.figma.com/proto/U7iIwJk7wgm7S9S4UIsiZe/Zaori-Stock---Sistema?node-id=66-2047&p=f&t=Y1ZfE3I2yScsdpxU-1&scaling=scale-down&content-scaling=fixed&page-id=49%3A514",
+      link: "https://www.figma.com/design/U7iIwJk7wgm7S9S4UIsiZe/Zaori-Stock---Sistema?node-id=49-514&t=9MA5VHJuOIAEBXDU-1",
       tags: ["Sistema", "Descktop", "Mobile", "Navegável"],
     },
     {
       id: 3,
-      title: "Esport+",
+      title: "Esportes+",
       description: "Plataforma para fãs e jogadores de esports.",
       image: "/images/esport-thumbnail.png",
-      link: "https://www.figma.com/proto/s8veuX82aIwA9z8lPKVYhX/Desafio-trainee--Copy-?node-id=1-2&t=ugUsllAkHAkotNYS-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A35",
+      link: "https://www.figma.com/design/s8veuX82aIwA9z8lPKVYhX/Esportes-?node-id=1-2&t=6qdCSw9snlbCMJlo-1",
       tags: ["Landing Page", "Descktop", "Mobile"],
     },
     {
@@ -35,7 +35,7 @@ export default function Home() {
       title: "Portfólio De Membros",
       description: "Apresentação de membros e seus trabalhos para a EJECT.",
       image: "/images/portfolio-thumbnail.png",
-      link: "https://www.figma.com/proto/P2ri6ThXyickWkx701L06a/Portf%C3%B3lio-dos-membros---EJECT?node-id=1-2&t=mFFPBCo1UDQfpO7e-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A4",
+      link: "https://www.figma.com/design/P2ri6ThXyickWkx701L06a/Portf%C3%B3lio-dos-membros---EJECT?t=JpGT4EPCVJasqiRA-1",
       tags: ["Site", "Descktop", "Navegável"],
     },
     {
@@ -43,7 +43,7 @@ export default function Home() {
       title: "Pokeshop",
       description: "E-commerce de Pokemons.",
       image: "/images/pokeshop-thumbnail.png",
-      link: "https://www.figma.com/proto/P2ri6ThXyickWkx701L06a/Portf%C3%B3lio-dos-membros---EJECT?node-id=1-2&t=mFFPBCo1UDQfpO7e-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A4",
+      link: "https://www.figma.com/design/Qg65ABIOXa3neGXTh9RCCP/Pok%C3%A9Shop?node-id=0-1&t=l5K9RZESZ3sPF60V-1",
       tags: ["E-commerce", "Descktop"],
     },
     {
