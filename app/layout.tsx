@@ -7,8 +7,7 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
   title: "Portfólio de Protótipos",
-  description: "Meu portfólio de protótipos criados no Figma",
-    generator: 'v0.dev'
+  description: "Meu portfólio de protótipos",
 }
 
 export default function RootLayout({
